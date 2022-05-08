@@ -109,7 +109,8 @@ document.addEventListener('DOMContentLoaded', () => {
         })
             liendTask.forEach(task=>{
         task.addEventListener('click',resetTask)            
-                
+          
+                inputElm.value = ''
 })   
     }
     // //remove frome completed tasks and add to today tasks
