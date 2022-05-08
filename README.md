@@ -1,3 +1,3 @@
 # simpleTodoList-app
 
-play [demo](http://www.traversymedia.com)
+play demo : [todoList](https://bouakram.github.io/simpleTodoList-app/dist/ "Todo List")
